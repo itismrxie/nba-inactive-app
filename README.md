@@ -1,1 +1,1 @@
-# nba-inactive-app
+# nba-interactive-app
